@@ -1,0 +1,5 @@
+# ninja log v6
+2	189	7896569199572636	build.ninja	9cab6086f9feb201
+4	2037	7896566410056651	CMakeFiles/discrete_mathematics.dir/main.cpp.obj	e182d791f6d3134b
+2039	2256	7896566430401341	discrete_mathematics.exe	b36579488feb0518
+9	1254	7896562028352632	CMakeFiles/discrete_mathematics.dir/task3.cpp.obj	2d75fe349f04b54e

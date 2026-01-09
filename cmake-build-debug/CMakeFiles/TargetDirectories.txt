@@ -1,0 +1,3 @@
+C:/Users/шамиль/Desktop/discrete_mathematics/cmake-build-debug/CMakeFiles/discrete_mathematics.dir
+C:/Users/шамиль/Desktop/discrete_mathematics/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/шамиль/Desktop/discrete_mathematics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
