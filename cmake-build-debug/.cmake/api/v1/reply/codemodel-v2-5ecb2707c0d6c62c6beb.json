@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "discrete_mathematics",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "discrete_mathematics::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-discrete_mathematics-Debug-4ed8cd7ce0a4280199e0.json",
+					"name" : "discrete_mathematics",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/\u0448\u0430\u043c\u0438\u043b\u044c/Desktop/3_term/discrete_mathematics/cmake-build-debug",
+		"source" : "C:/Users/\u0448\u0430\u043c\u0438\u043b\u044c/Desktop/3_term/discrete_mathematics"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

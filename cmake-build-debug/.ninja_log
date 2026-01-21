@@ -1,5 +1,15 @@
 # ninja log v6
-2	189	7896569199572636	build.ninja	9cab6086f9feb201
-4	2037	7896566410056651	CMakeFiles/discrete_mathematics.dir/main.cpp.obj	e182d791f6d3134b
-2039	2256	7896566430401341	discrete_mathematics.exe	b36579488feb0518
-9	1254	7896562028352632	CMakeFiles/discrete_mathematics.dir/task3.cpp.obj	2d75fe349f04b54e
+2	198	7906861655612266	build.ninja	2d48211c3170864a
+4	1333	7906860419351928	CMakeFiles/discrete_mathematics.dir/main.cpp.obj	45d4fe57c7aaa9a3
+1333	1643	7906860432653407	discrete_mathematics.exe	e3cd5f87bfc16a44
+4	1628	7906857992355164	CMakeFiles/discrete_mathematics.dir/task3.cpp.obj	79f1f56824d6028e
+7	1410	7906847687259925	CMakeFiles/discrete_mathematics.dir/1task.cpp.obj	822524c880195be
+5	1402	7906862169096511	CMakeFiles/discrete_mathematics.dir/main.cpp.obj	45d4fe57c7aaa9a3
+9	1492	7906862169126513	CMakeFiles/discrete_mathematics.dir/3task.cpp.obj	1e8ba818abeb88dd
+1492	1827	7906862183956792	discrete_mathematics.exe	553c035a5194c128
+4	1433	7906862971971047	CMakeFiles/discrete_mathematics.dir/3task.cpp.obj	1e8ba818abeb88dd
+1433	1757	7906862986266022	discrete_mathematics.exe	553c035a5194c128
+4	1900	7906863386869109	CMakeFiles/discrete_mathematics.dir/3task.cpp.obj	1e8ba818abeb88dd
+1900	2275	7906863405835507	discrete_mathematics.exe	553c035a5194c128
+5	3064	7906864797641848	CMakeFiles/discrete_mathematics.dir/3task.cpp.obj	1e8ba818abeb88dd
+3064	3481	7906864828232777	discrete_mathematics.exe	553c035a5194c128
